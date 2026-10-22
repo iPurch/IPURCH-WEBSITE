@@ -28,4 +28,6 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://ipurch.com/ar/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ipurch.com/"/>
   </url>
+  <url><loc>https://ipurch.com/mentions-legales/</loc><changefreq>yearly</changefreq><priority>0.2</priority></url>
+  <url><loc>https://ipurch.com/confidentialite/</loc><changefreq>yearly</changefreq><priority>0.2</priority></url>
 </urlset>
